@@ -1,0 +1,1 @@
+select * from alchemy.ingredients limit 10
