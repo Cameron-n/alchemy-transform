@@ -1,2 +1,2 @@
 {{ config(materialized='table') }}
-select * from alchemy.ingredients limit 10
+select * from ingredients limit 10
